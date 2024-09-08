@@ -1,0 +1,14 @@
+/home/zeref-dragneel/Desktop/CLI-Tools/bin/Debug/net8.0/CLI-Tools
+/home/zeref-dragneel/Desktop/CLI-Tools/bin/Debug/net8.0/CLI-Tools.deps.json
+/home/zeref-dragneel/Desktop/CLI-Tools/bin/Debug/net8.0/CLI-Tools.runtimeconfig.json
+/home/zeref-dragneel/Desktop/CLI-Tools/bin/Debug/net8.0/CLI-Tools.dll
+/home/zeref-dragneel/Desktop/CLI-Tools/bin/Debug/net8.0/CLI-Tools.pdb
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.AssemblyInfoInputs.cache
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.AssemblyInfo.cs
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.csproj.CoreCompileInputs.cache
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.dll
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/refint/CLI-Tools.dll
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.pdb
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/CLI-Tools.genruntimeconfig.cache
+/home/zeref-dragneel/Desktop/CLI-Tools/obj/Debug/net8.0/ref/CLI-Tools.dll
